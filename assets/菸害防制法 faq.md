@@ -13,9 +13,9 @@
 2. 禁菸政策實施後，美國各州有 75-86% 的工商會代表、餐廳及酒吧業者，考量員工健康及醫療費用等因素而支持全面禁菸政策；在加州，83% 的酒吧業者、經理及酒保等員工同意禁菸政策的確保障了他們的健康，77% 支持實施禁菸政策註 3。
 3. 事實上，近 8 成的吸菸者也支持室內公共場所全面禁菸(非吸菸者近 100% 支持)，因為吸菸者也不喜歡被別人的二手菸薰。
 
-註：
-1. Global smoke free partnership 的文章，“禁菸煙法律有益於經濟，不損害餐館和酒吧的利益”；美國衛生及公眾服務部研究報告，”The Health Consequences of Involuntary
-Exposure to Tobacco Smoke - A Report of the Surgeon General”
+註 -
+
+1. Global smoke free partnership 的文章，“禁菸煙法律有益於經濟，不損害餐館和酒吧的利益”；美國衛生及公眾服務部研究報告，”The Health Consequences of Involuntary Exposure to Tobacco Smoke - A Report of the Surgeon General”
 2. The State of Smoke-Free New York City: A One-Year Review”, March 2004
 3. Campaign for tobacco-free kids “SMOKE-FREE LAWS DO NOT HARM BUSINESS AT RESTAURANTS AND BARS”
 
@@ -24,10 +24,10 @@ Exposure to Tobacco Smoke - A Report of the Surgeon General”
 2. 二手菸煙霧還會造成嚴重的室內空氣汙染，即使設置室內吸菸室也無法有效杜絕，依據美國、英國、愛爾蘭及印度的研究結果，酒吧內吸菸會使室內 PM2.5 濃度超標，高達紫爆濃度的 15 倍(1,100 微克/立方公尺)，而推出禁菸政策後，空氣品質即可改善 93% 註 2-5。
 3. 實施酒吧禁菸政策，可保護在內工作的酒保、服務生、廚師、樂團歌唱者與打掃的阿姨阿伯免於二手菸、三手菸害，提供在夜晚討生活的勞工安全健康的工作環境，支持夜店酒吧禁菸規定，吸菸者會有一點點的不方便，但將創造大家一個可好好享受、健康的夜間娛樂環境，也可避免年輕人在夜店染上菸癮。
 
-註
+註 -
+
 1. 美國聯邦政府食品藥物管理局 (FDA), 菸品中有害及潛在有害成分(Harmful and potentially harmful constituents, HPHCs). 2012
-2. Indoor Air Quality in Hospitality Venues Before and After Implementation of a Clean Indoor Air Law - Western New York, 2003, MMWR Morb Mortal Wkly Rep. 2004 Nov
-12;53(44):1038-41
+2. Indoor Air Quality in Hospitality Venues Before and After Implementation of a Clean Indoor Air Law - Western New York, 2003, MMWR Morb Mortal Wkly Rep. 2004 Nov 12;53(44):1038-41
 3. UK smoke-free legislation: changes in PM2.5 concentrations in bars in Scotland, England, and Wales. Ann Occup Hyg. 2010 Apr;54(3):272-80
 4. How smoke-free laws improve air quality: A global study of Irish pubs .Nicotine Tob Res (2009) 11 (6): 600-605.
 5. Smoking ban and indoor air quality in restaurants in Mumbai, India. Indian J Occup Environ Med. 2011 May-Aug; 15(2): 68–72.
